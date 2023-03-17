@@ -2,7 +2,7 @@
 Title=PVA443
 Startup=ModPrinc
 Icon=images/hp1.png
-Version=0.1.971
+Version=0.1.970
 Component=gb.image
 Component=gb.qt5
 Component=gb.form
